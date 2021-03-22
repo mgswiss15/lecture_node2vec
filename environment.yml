@@ -1,0 +1,19 @@
+name: graphs
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scipy
+  - matplotlib
+  - ipython
+  - jupyter
+  - pandas
+  - sympy
+  - networkx
+  - node2vec
+  - plotly=4.14.3
+  - seaborn
+  - regex
+  - pygraphviz
+  - scikit-learn
+prefix: /home/magda/anaconda3/envs/graphs
